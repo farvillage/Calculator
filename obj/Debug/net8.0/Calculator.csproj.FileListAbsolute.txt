@@ -1,0 +1,14 @@
+/Users/farvillage/Calculator/bin/Debug/net8.0/Calculator
+/Users/farvillage/Calculator/bin/Debug/net8.0/Calculator.deps.json
+/Users/farvillage/Calculator/bin/Debug/net8.0/Calculator.runtimeconfig.json
+/Users/farvillage/Calculator/bin/Debug/net8.0/Calculator.dll
+/Users/farvillage/Calculator/bin/Debug/net8.0/Calculator.pdb
+/Users/farvillage/Calculator/obj/Debug/net8.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/farvillage/Calculator/obj/Debug/net8.0/Calculator.AssemblyInfoInputs.cache
+/Users/farvillage/Calculator/obj/Debug/net8.0/Calculator.AssemblyInfo.cs
+/Users/farvillage/Calculator/obj/Debug/net8.0/Calculator.csproj.CoreCompileInputs.cache
+/Users/farvillage/Calculator/obj/Debug/net8.0/Calculator.dll
+/Users/farvillage/Calculator/obj/Debug/net8.0/refint/Calculator.dll
+/Users/farvillage/Calculator/obj/Debug/net8.0/Calculator.pdb
+/Users/farvillage/Calculator/obj/Debug/net8.0/Calculator.genruntimeconfig.cache
+/Users/farvillage/Calculator/obj/Debug/net8.0/ref/Calculator.dll
